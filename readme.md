@@ -19,4 +19,5 @@ $ npx expo install react-native@0.71.8
 $ npx expo install react-native-svg
 $ npm install react-native-svg-transformer -D
 $ npx expo install expo-image-picker
+$ npm i dayjs
 ```
